@@ -1,0 +1,33 @@
+{
+  "name": "allyoucanbuy",
+  "version": "1.0.0",
+  "description": "Backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyabongahlongwane/allyoucanbuy-backend.git"
+  },
+  "keywords": [
+    "All",
+    "you",
+    "can",
+    "buy"
+  ],
+  "author": "Siyabonga Hlongwane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siyabongahlongwane/allyoucanbuy-backend/issues"
+  },
+  "homepage": "https://github.com/siyabongahlongwane/allyoucanbuy-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
