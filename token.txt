@@ -1,0 +1,1 @@
+git push https://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@github.com/siyabongahlongwane/allyoucanbuy-backend.git
